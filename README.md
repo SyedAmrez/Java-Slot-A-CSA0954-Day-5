@@ -16,8 +16,7 @@ will be at least one word, consists of only English letters and spaces ' '.
 5.Write a Java program to find the common elements in two array of Positive integer
 
 6.Given an integer num, return the number of steps to reduce it to zero. In one step, if the 
-current number is even, you have to divide it by 2, otherwise, you have to subtract 1 
-from it.
+current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
 
 7.Program to find the frequency of each element in the array.
 
